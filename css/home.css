@@ -1,0 +1,1223 @@
+body {
+  font-family: 'Roboto Slab',serif; }
+
+.phan1 {
+  background-image: url("../images/phan1-1.jpg");
+  background-origin: content-box;
+  background-size: cover;
+  background-attachment: scroll;
+  background-position: top left;
+  background-repeat: no-repeat;
+  text-align: center; }
+  .phan1 .row {
+    width: 960px;
+    margin: 0 auto; }
+  .phan1 .phan1-center .chung-right {
+    display: inline-block; }
+  .phan1 .phan1-center .title {
+    background-color: rgba(0, 0, 0, 0.67);
+    border-radius: 6px;
+    margin-top: 10%; }
+    .phan1 .phan1-center .title h2 {
+      font-size: 44px;
+      text-align: center;
+      color: white;
+      font-weight: 400;
+      line-height: 50px;
+      padding: 5px 0px; }
+  .phan1 .phan1-center .below-title {
+    margin-bottom: 40px; }
+    .phan1 .phan1-center .below-title h6 {
+      font-family: 'Roboto',sans-serif;
+      padding-top: 10px;
+      color: black;
+      font-weight: 400;
+      line-height: 22px;
+      font-size: 16px;
+      text-align: center; }
+  .phan1 .phan1-center .duoititle {
+    width: 70%;
+    margin: 0 auto; }
+  .phan1 .phan1-center .form-register {
+    width: 375px;
+    height: 400px;
+    background-color: rgba(255, 255, 255, 0.83);
+    margin: 0 auto;
+    margin-bottom: 50px; }
+    .phan1 .phan1-center .form-register .title-form {
+      margin-top: 20px; }
+      .phan1 .phan1-center .form-register .title-form h5 {
+        color: #171717;
+        font-weight: 600;
+        line-height: 22px;
+        font-size: 18px;
+        text-align: left;
+        padding-left: 6px; }
+    .phan1 .phan1-center .form-register .list-form {
+      margin: 25px 0px; }
+      .phan1 .phan1-center .form-register .list-form ol {
+        background-color: rgba(255, 255, 255, 0);
+        color: #171717;
+        font-weight: 400;
+        line-height: 20px;
+        font-size: 14px;
+        text-align: left;
+        counter-reset: linum;
+        list-style-type: inherit;
+        padding-left: 50px; }
+        .phan1 .phan1-center .form-register .list-form ol li {
+          margin-bottom: 2px;
+          color: #171717; }
+    .phan1 .phan1-center .form-register .noidung-form form .text {
+      height: 42.65625px;
+      padding: 0px 9%; }
+      .phan1 .phan1-center .form-register .noidung-form form .text input {
+        font-size: 13px;
+        border: 1px solid #b5b5b5;
+        border-radius: 3px;
+        background-color: white;
+        color: #6e6e6e;
+        padding: 10px 5px;
+        width: 100%; }
+    .phan1 .phan1-center .form-register .noidung-form form .button {
+      margin: 20px 0px; }
+      .phan1 .phan1-center .form-register .noidung-form form .button a {
+        width: 322px;
+        height: 51px;
+        text-align: center;
+        font-size: 20px; }
+        .phan1 .phan1-center .form-register .noidung-form form .button a span {
+          padding: 15px 105px;
+          font-size: 16px;
+          text-align: center;
+          background-color: #dbb800;
+          color: #050505;
+          font-weight: 600;
+          line-height: 22px;
+          border-radius: 5px; }
+        .phan1 .phan1-center .form-register .noidung-form form .button a span:hover {
+          background-color: tomato; }
+    .phan1 .phan1-center .form-register .noidung-form form input:hover {
+      border: 1.4px solid tomato; }
+    .phan1 .phan1-center .form-register .noidung-form .bug span {
+      font-style: italic;
+      color: red;
+      text-align: left; }
+  .phan1 .phan1-center .right-phan1 {
+    width: 223px;
+    height: 60px; }
+    .phan1 .phan1-center .right-phan1 .title-right {
+      background-color: rgba(0, 0, 0, 0.67);
+      border-radius: 6px; }
+      .phan1 .phan1-center .right-phan1 .title-right h5 {
+        color: white;
+        font-weight: 400;
+        line-height: 26px;
+        letter-spacing: 1px;
+        text-shadow: 0px 0px 4px rgba(255, 255, 255, 0.34);
+        font-size: 15px;
+        text-align: left;
+        font-family: 'Roboto Slab',serif;
+        padding: 5px 0px 10px 20px; }
+  .phan1 .phan1-center .bottom-right-phan1 {
+    background-color: #dbb800;
+    opacity: 1;
+    width: 135px;
+    margin-top: 20px; }
+    .phan1 .phan1-center .bottom-right-phan1 .inside {
+      margin: 3px;
+      border: 2px solid black;
+      width: 130px;
+      height: 130px; }
+      .phan1 .phan1-center .bottom-right-phan1 .inside .hai {
+        opacity: 1;
+        color: black;
+        font-weight: 600;
+        line-height: 22px;
+        font-size: 18px;
+        text-align: center;
+        padding-top: 10%; }
+      .phan1 .phan1-center .bottom-right-phan1 .inside .ba {
+        opacity: 1;
+        color: black;
+        font-weight: 700;
+        line-height: 59px;
+        font-size: 43px;
+        text-align: center; }
+      .phan1 .phan1-center .bottom-right-phan1 .inside .bon {
+        color: #080808;
+        font-weight: 600;
+        line-height: 18px;
+        font-size: 14px;
+        text-align: center;
+        opacity: 1; }
+
+.phan2 {
+  height: 620px;
+  width: 100% !important;
+  display: block;
+  background-color: white; }
+  .phan2 .row {
+    margin: 0 auto;
+    width: 960px; }
+    .phan2 .row .title {
+      width: 474px;
+      height: 42px;
+      margin: 0 auto;
+      margin-top: 60px;
+      background-color: rgba(254, 255, 255, 0); }
+      .phan2 .row .title h1 {
+        color: black;
+        font-weight: 300;
+        line-height: 42px;
+        opacity: 1;
+        font-size: 36px;
+        text-align: center; }
+    .phan2 .row .line {
+      width: 100%;
+      height: 25px; }
+      .phan2 .row .line .line1 {
+        width: 264px;
+        margin: 0 auto;
+        border-top-width: 1px;
+        border-left-width: 0px;
+        border-right-width: 0px;
+        border-bottom-width: 0px;
+        border-style: solid;
+        border-color: #757575;
+        margin-top: 11.5px;
+        height: 1px; }
+    .phan2 .row .title-1 {
+      width: 375px;
+      height: 44px;
+      margin: 0 auto;
+      display: block;
+      margin-bottom: 40px; }
+      .phan2 .row .title-1 p {
+        color: #757575;
+        font-weight: 300;
+        line-height: 22px;
+        font-family: "Open Sans", sans-serif;
+        font-size: 16px;
+        text-align: center; }
+    .phan2 .row .phan2-img {
+      width: 290px;
+      height: 378px;
+      float: left;
+      margin-left: 25px; }
+      .phan2 .row .phan2-img .phan2-img-1 {
+        width: 290px;
+        height: 250px; }
+      .phan2 .row .phan2-img .img {
+        width: 100%;
+        height: 100%;
+        background-position: center center;
+        background-size: cover;
+        display: block; }
+        .phan2 .row .phan2-img .img .khungngoai {
+          width: 253px;
+          height: 212px;
+          border-width: 1px;
+          border-style: solid;
+          border-color: white;
+          background-color: rgba(255, 255, 255, 0.02);
+          word-break: break-word;
+          overflow-wrap: break-word;
+          word-wrap: break-word;
+          display: inline-block;
+          letter-spacing: 0;
+          margin: 20px 20px; }
+      .phan2 .row .phan2-img .img-1 {
+        background-image: url("../images/phan2-1.jpg"); }
+      .phan2 .row .phan2-img .img-2 {
+        background-image: url("../images/phan2-2.jpg"); }
+      .phan2 .row .phan2-img .img-3 {
+        background-image: url("../images/phan2-3.jpg"); }
+      .phan2 .row .phan2-img .up-img {
+        width: 290px;
+        height: 30px;
+        margin: 15px 0px 10px 0px; }
+        .phan2 .row .phan2-img .up-img h3 {
+          opacity: 1;
+          font-family: 'Roboto Slab',serif;
+          color: #121212;
+          font-weight: 400;
+          line-height: 30px;
+          font-size: 24px;
+          text-align: center; }
+      .phan2 .row .phan2-img .up-content-img {
+        width: 290px;
+        height: 60px; }
+        .phan2 .row .phan2-img .up-content-img p {
+          opacity: 1;
+          font-family: 'Open Sans',sans-serif;
+          -webkit-font-smoothing: antialiased;
+          color: #424242;
+          font-weight: 400;
+          line-height: 20px;
+          font-size: 14px;
+          text-align: center; }
+
+.phan3 {
+  display: block;
+  background-image: url("../images/phan3,bg.png");
+  background-color: rgba(255, 255, 255, 0);
+  background-position: top center;
+  background-repeat: repeat;
+  height: 744px;
+  width: 100% !important; }
+  .phan3 .row {
+    height: 100%;
+    width: 960px;
+    margin: 0 auto;
+    padding: 0; }
+    .phan3 .row .title {
+      width: 474px;
+      height: 100px;
+      margin: 0px auto; }
+      .phan3 .row .title h1 {
+        opacity: 1;
+        font-family: 'Roboto Slab',serif;
+        -webkit-font-smoothing: antialiased;
+        color: black;
+        font-weight: 300;
+        line-height: 42px;
+        font-size: 36px;
+        text-align: center;
+        padding-top: 50px; }
+    .phan3 .row .line {
+      width: 250px;
+      height: 20px;
+      margin: 0 auto; }
+      .phan3 .row .line h1 {
+        opacity: 1;
+        font-family: 'Open Sans';
+        -webkit-font-smoothing: antialiased;
+        color: black;
+        font-weight: 300;
+        line-height: 20px;
+        font-size: 16px;
+        text-align: center;
+        border-top: 1.5px solid black;
+        margin: 10px 0px; }
+    .phan3 .row .content {
+      width: 531px;
+      height: 175px;
+      margin: 0px auto; }
+      .phan3 .row .content p {
+        font-family: 'Roboto',sans-serif;
+        -webkit-font-smoothing: antialiased;
+        color: #2b2b2b;
+        font-weight: 400;
+        line-height: 25px;
+        font-size: 16px;
+        text-align: center; }
+    .phan3 .row .phan3-img {
+      width: 314.21875px;
+      height: 404px;
+      margin: 0px auto; }
+      .phan3 .row .phan3-img .content-img {
+        text-rendering: unset !important;
+        width: 100%;
+        height: 100%;
+        word-break: break-word;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        display: inline-block;
+        letter-spacing: 0;
+        margin: 0 auto;
+        margin-top: 34px; }
+        .phan3 .row .phan3-img .content-img .img {
+          width: 100%;
+          height: 100%;
+          background-position: center center;
+          background-size: cover;
+          background-image: url("../images/phan3.png"); }
+
+.phan4 {
+  display: block;
+  background-image: url("../images/phan4.jpg");
+  background-color: rgba(255, 255, 255, 0);
+  background-origin: content-box;
+  background-size: cover;
+  background-attachment: scroll;
+  background-position: top center;
+  background-repeat: no-repeat;
+  height: 480px; }
+  .phan4 .row {
+    height: 100%;
+    width: 960px;
+    margin: 0 auto; }
+    .phan4 .row .content {
+      width: 395px;
+      height: 362px;
+      margin: 0 auto; }
+      .phan4 .row .content .khoangcach {
+        height: 59px; }
+      .phan4 .row .content .content-1 {
+        width: 100%;
+        height: 100%;
+        border-width: 1px;
+        border-style: solid;
+        border-color: white;
+        margin: 0 auto; }
+      .phan4 .row .content .content-2 {
+        width: 305px;
+        height: 100%;
+        margin: 0 auto;
+        padding-top: 60px; }
+        .phan4 .row .content .content-2 p {
+          font-size: 30px;
+          text-align: center;
+          -webkit-font-smoothing: antialiased;
+          color: white;
+          font-weight: 400;
+          line-height: 36px;
+          font-family: 'Roboto Slab',serif; }
+
+.phan5 {
+  height: 900px;
+  width: 100% !important;
+  display: block;
+  background-color: rgba(255, 255, 255, 0); }
+  .phan5 .row {
+    height: 100%;
+    width: 960px;
+    margin: 0 auto; }
+    .phan5 .row .title {
+      width: 474px;
+      height: 100px;
+      margin: 0px auto; }
+      .phan5 .row .title h1 {
+        opacity: 1;
+        font-family: 'Roboto Slab',serif;
+        -webkit-font-smoothing: antialiased;
+        color: black;
+        font-weight: 300;
+        line-height: 42px;
+        font-size: 36px;
+        text-align: center;
+        padding-top: 50px; }
+    .phan5 .row .line {
+      width: 264px;
+      height: 20px;
+      margin: 0 auto; }
+      .phan5 .row .line h1 {
+        opacity: 1;
+        font-family: 'Open Sans';
+        -webkit-font-smoothing: antialiased;
+        color: black;
+        font-weight: 300;
+        line-height: 20px;
+        font-size: 16px;
+        text-align: center;
+        border-top: 1.5px solid black;
+        margin: 10px 0px; }
+    .phan5 .row .content {
+      width: 419px;
+      height: 44px;
+      margin: 0px auto; }
+      .phan5 .row .content p {
+        font-size: 16px;
+        text-align: center;
+        -webkit-font-smoothing: antialiased;
+        color: #757575;
+        font-weight: 300;
+        line-height: 22px; }
+    .phan5 .row .group-p5 {
+      width: 234px;
+      height: 277px;
+      display: block;
+      float: left;
+      margin: 0 auto;
+      margin-top: 25px; }
+      .phan5 .row .group-p5 .group-p5-1 {
+        margin: 0  auto;
+        background-color: rgba(255, 255, 255, 0);
+        text-rendering: unset !important;
+        width: 100%;
+        height: 100%;
+        word-break: break-word;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        display: inline-block;
+        letter-spacing: 0; }
+        .phan5 .row .group-p5 .group-p5-1 .group-img {
+          margin: 0 auto;
+          width: 190px;
+          height: 190px;
+          display: block; }
+          .phan5 .row .group-p5 .group-p5-1 .group-img .group-img-1 {
+            text-rendering: unset !important;
+            width: 100%;
+            height: 100%;
+            word-break: break-word;
+            overflow-wrap: break-word;
+            word-wrap: break-word;
+            display: inline-block;
+            letter-spacing: 0; }
+            .phan5 .row .group-p5 .group-p5-1 .group-img .group-img-1 .img {
+              width: 100%;
+              height: 100%;
+              background-position: center center;
+              background-size: cover; }
+            .phan5 .row .group-p5 .group-p5-1 .group-img .group-img-1 .img1 {
+              background-image: url("../images/phan5-2.jpg"); }
+            .phan5 .row .group-p5 .group-p5-1 .group-img .group-img-1 .img2 {
+              background-image: url("../images/phan5-1.jpg"); }
+        .phan5 .row .group-p5 .group-p5-1 .group-title {
+          width: 240px;
+          height: 24px;
+          margin: 15px 0px 10px 0px; }
+          .phan5 .row .group-p5 .group-p5-1 .group-title h5 {
+            opacity: 1;
+            font-family: 'Open Sans',sans-serif;
+            -webkit-font-smoothing: antialiased;
+            color: #080808;
+            font-weight: 400;
+            line-height: 24px;
+            font-size: 18px;
+            text-align: center; }
+        .phan5 .row .group-p5 .group-p5-1 .group-detail {
+          width: 234px;
+          height: 36px; }
+          .phan5 .row .group-p5 .group-p5-1 .group-detail p {
+            opacity: 1;
+            font-family: 'Open Sans';
+            -webkit-font-smoothing: antialiased;
+            color: #616161;
+            font-weight: 300;
+            line-height: 18px;
+            font-size: 14px;
+            text-align: center; }
+
+.phan6 {
+  display: block;
+  background-image: url("../images/phan6-bg.jpg");
+  background-color: rgba(255, 255, 255, 0);
+  background-origin: content-box;
+  background-size: cover;
+  background-attachment: scroll;
+  background-position: top left;
+  background-repeat: no-repeat;
+  height: 542px; }
+  .phan6 .float-phan6 {
+    float: left; }
+  .phan6 .overlay {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.55); }
+    .phan6 .overlay .row {
+      height: 100%;
+      width: 960px;
+      margin: 0 auto; }
+      .phan6 .overlay .row .img-left {
+        width: 283.703125px;
+        height: 450px;
+        overflow: hidden;
+        margin-top: 92px;
+        margin-right: 25px; }
+        .phan6 .overlay .row .img-left .img-p6 {
+          width: 100%;
+          height: 100%;
+          background-position: center center;
+          background-size: cover;
+          background-image: url("../images/phan6-img.png"); }
+      .phan6 .overlay .row .content-right {
+        margin-top: 120px;
+        width: 650px;
+        position: relative; }
+        .phan6 .overlay .row .content-right .title {
+          width: 630px;
+          height: 72px; }
+          .phan6 .overlay .row .content-right .title h2 {
+            font-family: 'Roboto Slab',serif;
+            -webkit-font-smoothing: antialiased;
+            color: white;
+            text-transform: uppercase;
+            font-weight: 400;
+            line-height: 36px;
+            font-size: 30px;
+            text-align: left; }
+        .phan6 .overlay .row .content-right .line {
+          width: 604px;
+          height: 25px; }
+          .phan6 .overlay .row .content-right .line .line-inside {
+            border-color: white;
+            margin-top: 11.5px;
+            border-top: 1px solid white;
+            width: 100%;
+            height: 1px;
+            margin-top: 11.5px; }
+        .phan6 .overlay .row .content-right .detail {
+          width: 618px;
+          height: 44px; }
+          .phan6 .overlay .row .content-right .detail p {
+            -webkit-font-smoothing: antialiased;
+            color: white;
+            font-weight: 400;
+            line-height: 22px;
+            font-size: 16px;
+            text-align: left; }
+        .phan6 .overlay .row .content-right .button-phan6 {
+          position: absolute;
+          left: 34px;
+          top: 200px; }
+          .phan6 .overlay .row .content-right .button-phan6 a {
+            width: 216px;
+            height: 47px; }
+            .phan6 .overlay .row .content-right .button-phan6 a span {
+              color: #ffffff;
+              font-weight: 600;
+              line-height: 40px;
+              font-size: 16px;
+              text-align: center;
+              display: table-cell;
+              vertical-align: middle; }
+
+.phan7 {
+  height: 450px;
+  background-color: rgba(255, 255, 255, 0); }
+  .phan7 .row {
+    height: 100%;
+    width: 700px;
+    margin: 0 auto; }
+    .phan7 .row .title {
+      width: 474px;
+      height: 42px;
+      margin: 50px auto 15px auto; }
+      .phan7 .row .title h1 {
+        -webkit-font-smoothing: antialiased;
+        color: black;
+        font-weight: 300;
+        line-height: 42px;
+        opacity: 1;
+        font-family: 'Roboto Slab',serif;
+        font-size: 36px;
+        text-align: center; }
+    .phan7 .row .line {
+      width: 245px;
+      height: 25px;
+      margin: 0 auto;
+      border-top: 1px solid black; }
+    .phan7 .row .detail {
+      width: 419px;
+      height: 44px;
+      margin: 0px auto; }
+      .phan7 .row .detail h6 {
+        -webkit-font-smoothing: antialiased;
+        color: #757575;
+        font-weight: 300;
+        line-height: 22px;
+        font-family: 'Open Sans',sans-serif;
+        font-size: 16px;
+        text-align: center; }
+    .phan7 .row .form-register {
+      width: 400px;
+      height: 90px;
+      margin: 40px auto 20px auto; }
+      .phan7 .row .form-register form {
+        background-color: rgba(255, 255, 255, 0);
+        color: black; }
+        .phan7 .row .form-register form .input-1 {
+          width: 400px;
+          height: 50px; }
+          .phan7 .row .form-register form .input-1 input {
+            border: 1px solid #8a8a8a;
+            background-color: white;
+            color: black;
+            margin: 0 auto;
+            width: 100%;
+            font-size: 13px;
+            padding: 12px 5px; }
+          .phan7 .row .form-register form .input-1 input:hover {
+            border: 1.2px solid tomato; }
+    .phan7 .row .button-phan7 {
+      width: 400px;
+      height: 48px;
+      margin: 0 auto; }
+      .phan7 .row .button-phan7 a {
+        width: 100%;
+        height: 100%; }
+        .phan7 .row .button-phan7 a span {
+          width: 400px;
+          height: 48px;
+          background-color: #dd9933;
+          color: white;
+          line-height: 22px;
+          font-size: 16px;
+          text-align: center;
+          display: table-cell;
+          vertical-align: middle; }
+        .phan7 .row .button-phan7 a span:hover {
+          background-color: tomato; }
+    .phan7 .row .note {
+      width: 410px;
+      height: 40px;
+      margin: 0 auto;
+      margin-top: 10px; }
+      .phan7 .row .note p {
+        -webkit-font-smoothing: antialiased;
+        color: #474747;
+        font-weight: 400;
+        line-height: 20px;
+        font-size: 14px;
+        text-align: center; }
+
+.phan8 {
+  display: block;
+  background-image: url("../images/phan8-bg.jpg");
+  background-color: rgba(255, 255, 255, 0);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: top center;
+  background-repeat: no-repeat;
+  height: 612px; }
+  .phan8 .fullBg {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.73); }
+    .phan8 .fullBg .row {
+      height: 612px;
+      width: 960px;
+      margin: 0 auto; }
+      .phan8 .fullBg .row .content {
+        display: inline-block;
+        width: 301px;
+        height: 439px;
+        margin: 0 auto;
+        padding-top: 89px; }
+        .phan8 .fullBg .row .content .phan8-img {
+          width: 164px;
+          height: 164px;
+          margin: 0 auto; }
+          .phan8 .fullBg .row .content .phan8-img .img-inside {
+            -webkit-font-smoothing: antialiased;
+            color: black;
+            background-origin: content-box;
+            background-size: cover;
+            background-attachment: scroll;
+            background-position: top center;
+            height: 100%;
+            border-radius: 110px;
+            border-width: 3px;
+            border-style: solid;
+            border-color: white; }
+          .phan8 .fullBg .row .content .phan8-img .img-1 {
+            background-image: url("../images/phan8-1.jpg"); }
+          .phan8 .fullBg .row .content .phan8-img .img-2 {
+            background-image: url("../images/phan8-2.png"); }
+          .phan8 .fullBg .row .content .phan8-img .img-3 {
+            background-image: url("../images/phan8-3.jpg"); }
+        .phan8 .fullBg .row .content .icon-1 {
+          width: 35px;
+          height: 35px;
+          margin: 20px auto 25px auto; }
+          .phan8 .fullBg .row .content .icon-1 .icon-inside {
+            background-color: rgba(255, 255, 255, 0);
+            color: #dd9933; }
+        .phan8 .fullBg .row .content .detail {
+          width: 301px;
+          height: 85px;
+          margin: 0 auto; }
+          .phan8 .fullBg .row .content .detail h6 {
+            -webkit-font-smoothing: antialiased;
+            color: white;
+            font-weight: 400;
+            line-height: 17px;
+            font-size: 13px;
+            text-align: center; }
+        .phan8 .fullBg .row .content .name-phan8 {
+          width: 185px;
+          height: 18px;
+          margin: 0 auto;
+          margin-top: 10px; }
+          .phan8 .fullBg .row .content .name-phan8 h6 {
+            color: white;
+            text-transform: uppercase;
+            font-weight: 700;
+            line-height: 18px;
+            letter-spacing: 1px;
+            font-size: 14px;
+            text-align: center; }
+        .phan8 .fullBg .row .content .do-pham8 {
+          width: 185px;
+          height: 16px;
+          margin: 5px auto 10px auto; }
+          .phan8 .fullBg .row .content .do-pham8 h6 {
+            color: white;
+            font-weight: 300;
+            line-height: 16px;
+            letter-spacing: 0px;
+            font-size: 12px;
+            text-align: center;
+            font-family: 'Open Sans'; }
+        .phan8 .fullBg .row .content .icon-comment {
+          width: 148px;
+          height: 26px;
+          margin: 0 auto; }
+          .phan8 .fullBg .row .content .icon-comment .icon-comment-1 {
+            width: 26px;
+            height: 26px;
+            display: inline-block; }
+      .phan8 .fullBg .row .content-margin {
+        margin-left: 10px;
+        margin-right: 10px; }
+
+.phan9 {
+  height: 650px;
+  width: 100%;
+  display: block;
+  background-color: rgba(255, 255, 255, 0); }
+  .phan9 .row {
+    height: 100%;
+    width: 960px;
+    margin: 0 auto; }
+    .phan9 .row .title {
+      width: 756px;
+      height: 150px;
+      margin: 0px auto; }
+      .phan9 .row .title h1 {
+        opacity: 1;
+        font-family: 'Roboto Slab',serif;
+        -webkit-font-smoothing: antialiased;
+        color: black;
+        font-weight: 300;
+        line-height: 42px;
+        font-size: 36px;
+        text-align: center;
+        padding-top: 89px; }
+    .phan9 .row .line {
+      width: 264px;
+      height: 20px;
+      margin: 0 auto; }
+      .phan9 .row .line h1 {
+        opacity: 1;
+        font-family: 'Open Sans';
+        -webkit-font-smoothing: antialiased;
+        color: black;
+        font-weight: 300;
+        line-height: 20px;
+        font-size: 16px;
+        text-align: center;
+        border-top: 2px solid black; }
+    .phan9 .row .content {
+      width: 350px;
+      height: 44px;
+      margin: 0px auto; }
+      .phan9 .row .content p {
+        font-size: 16px;
+        text-align: center;
+        -webkit-font-smoothing: antialiased;
+        color: #757575;
+        font-weight: 300;
+        line-height: 22px; }
+    .phan9 .row .group-p5 {
+      width: 228px;
+      height: 162px;
+      display: block;
+      float: left;
+      margin: 0 auto;
+      margin: 5px 5px;
+      transition: transform 2s; }
+      .phan9 .row .group-p5 .group-p5-1 {
+        margin: 0  auto;
+        background-color: rgba(255, 255, 255, 0);
+        text-rendering: unset !important;
+        width: 100%;
+        height: 100%;
+        word-break: break-word;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        display: inline-block;
+        letter-spacing: 0; }
+        .phan9 .row .group-p5 .group-p5-1 .group-img {
+          margin: 0 auto;
+          width: 100%;
+          height: 100%;
+          display: block; }
+          .phan9 .row .group-p5 .group-p5-1 .group-img .group-img-1 {
+            text-rendering: unset !important;
+            width: 100%;
+            height: 100%;
+            word-break: break-word;
+            overflow-wrap: break-word;
+            word-wrap: break-word;
+            display: inline-block;
+            letter-spacing: 0; }
+            .phan9 .row .group-p5 .group-p5-1 .group-img .group-img-1 .img {
+              width: 100%;
+              height: 100%;
+              background-position: center center;
+              background-size: cover; }
+            .phan9 .row .group-p5 .group-p5-1 .group-img .group-img-1 .img1 {
+              background-image: url("../images/phan9-1.jpg"); }
+            .phan9 .row .group-p5 .group-p5-1 .group-img .group-img-1 .img2 {
+              background-image: url("../images/phan9-2.jpg"); }
+            .phan9 .row .group-p5 .group-p5-1 .group-img .group-img-1 .img3 {
+              background-image: url("../images/phan9-3.jpg"); }
+            .phan9 .row .group-p5 .group-p5-1 .group-img .group-img-1 .img4 {
+              background-image: url("../images/phan9-4.jpg"); }
+            .phan9 .row .group-p5 .group-p5-1 .group-img .group-img-1 .img5 {
+              background-image: url("../images/phan9-5.jpg"); }
+            .phan9 .row .group-p5 .group-p5-1 .group-img .group-img-1 .img6 {
+              background-image: url("../images/phan9-6.jpg"); }
+            .phan9 .row .group-p5 .group-p5-1 .group-img .group-img-1 .img7 {
+              background-image: url("../images/phan9-7.jpg"); }
+            .phan9 .row .group-p5 .group-p5-1 .group-img .group-img-1 .img8 {
+              background-image: url("../images/phan9-3.jpg"); }
+        .phan9 .row .group-p5 .group-p5-1 .group-title {
+          width: 240px;
+          height: 24px;
+          margin: 15px 0px 10px 0px; }
+          .phan9 .row .group-p5 .group-p5-1 .group-title h5 {
+            opacity: 1;
+            font-family: 'Open Sans',sans-serif;
+            -webkit-font-smoothing: antialiased;
+            color: #080808;
+            font-weight: 400;
+            line-height: 24px;
+            font-size: 18px;
+            text-align: center; }
+        .phan9 .row .group-p5 .group-p5-1 .group-detail {
+          width: 234px;
+          height: 36px; }
+          .phan9 .row .group-p5 .group-p5-1 .group-detail p {
+            opacity: 1;
+            font-family: 'Open Sans';
+            -webkit-font-smoothing: antialiased;
+            color: #616161;
+            font-weight: 300;
+            line-height: 18px;
+            font-size: 14px;
+            text-align: center; }
+    .phan9 .row .group-p5:hover {
+      transform: scale(1.09, 1.09); }
+
+.phan10 {
+  height: 450px;
+  display: block;
+  background-color: #1c1c1c; }
+  .phan10 .row {
+    height: 100%;
+    width: 960px;
+    margin: 0 auto; }
+  .phan10 .content-1 {
+    width: 273px;
+    height: 180px; }
+    .phan10 .content-1 .logo .logo-inside {
+      font-size: 40px;
+      color: tomato; }
+    .phan10 .content-1 .detail {
+      width: 272px;
+      height: 110px;
+      padding-top: 15px; }
+      .phan10 .content-1 .detail p {
+        -webkit-font-smoothing: antialiased;
+        color: rgba(255, 255, 255, 0.9);
+        font-weight: 400;
+        line-height: 22px;
+        font-size: 14px;
+        text-align: left;
+        font-family: Helvetica, Arial, sans-serif; }
+      .phan10 .content-1 .detail .icon img {
+        height: 30px;
+        width: 30px;
+        color: white; }
+  .phan10 .content-2 {
+    width: 296px;
+    height: 152px;
+    font-family: Helvetica, Arial, sans-serif; }
+    .phan10 .content-2 .title {
+      width: 268px;
+      height: 22px; }
+      .phan10 .content-2 .title h5 {
+        color: #dd9933;
+        font-weight: 700;
+        line-height: 22px;
+        letter-spacing: 0px;
+        font-size: 18px;
+        text-align: left; }
+    .phan10 .content-2 .detail {
+      width: 296px;
+      height: 100px;
+      padding-top: 33px; }
+      .phan10 .content-2 .detail p {
+        color: white;
+        font-weight: 700;
+        line-height: 20px;
+        font-size: 14px;
+        text-align: left; }
+  .phan10 .content-3 {
+    width: 292px;
+    height: 113px;
+    font-family: Helvetica, Arial, sans-serif; }
+    .phan10 .content-3 .title {
+      width: 292px;
+      height: 22px; }
+      .phan10 .content-3 .title h5 {
+        color: #dd9933;
+        font-weight: 700;
+        line-height: 22px;
+        letter-spacing: 0px;
+        font-size: 18px;
+        text-align: left; }
+    .phan10 .content-3 .detail {
+      width: 179.890625px;
+      height: 83px;
+      padding-top: 45px; }
+      .phan10 .content-3 .detail .img {
+        width: 84.765625px;
+        height: 83px;
+        background-color: rgba(43, 31, 115, 0);
+        color: black;
+        background-origin: content-box;
+        background-size: cover;
+        background-attachment: scroll;
+        background-position: top left;
+        background-repeat: no-repeat;
+        display: inline-block; }
+      .phan10 .content-3 .detail .img-1 {
+        background-image: url("../images/phan10-1.png"); }
+      .phan10 .content-3 .detail .img-2 {
+        background-image: url("../images/phan10-2.png"); }
+  .phan10 .content {
+    display: inline-block;
+    margin-top: 130px;
+    margin-left: 15px;
+    margin-right: 15px; }
+  .phan10 .footer {
+    height: 70px;
+    background-color: #04d9b3;
+    color: black; }
+    .phan10 .footer .footer-1 {
+      width: 376px;
+      height: 19px;
+      margin: 0 auto; }
+      .phan10 .footer .footer-1 p {
+        -webkit-font-smoothing: antialiased;
+        color: #1c1c1c;
+        font-weight: 400;
+        line-height: 19px;
+        font-size: 13px;
+        text-align: center;
+        font-family: Helvetica, Arial, sans-serif;
+        padding-top: 30px; }
+
+@media only screen and (max-width: 1230px) {
+  .phan1 .row {
+    width: 375px; }
+  .phan1 .phan1-center .title {
+    margin: 0 auto !important; }
+    .phan1 .phan1-center .title h2 {
+      font-size: 18px !important; }
+  .phan1 .phan1-center .duoititle {
+    width: 375px !important;
+    margin: 0 auto; }
+  .phan1 .phan1-center .form-register {
+    margin-bottom: 0px; }
+  .phan1 .phan1-center .right-phan1 {
+    margin-top: 10px; }
+  .phan1 .phan1-center .bottom-right-phan1 {
+    margin: 20px 40px !important; }
+
+  .phan2 {
+    height: 1369px !important; }
+    .phan2 .row {
+      width: 375px !important;
+      margin: 0 auto !important;
+      height: 100% !important; }
+      .phan2 .row .title {
+        width: 355px !important; }
+      .phan2 .row .line1 {
+        width: 264px !important; }
+      .phan2 .row .phan2-img {
+        clear: both !important;
+        margin-left: 0px !important;
+        width: 100% !important; }
+        .phan2 .row .phan2-img .margin-auto-phan2 {
+          margin: 0 auto !important;
+          width: 290px;
+          height: 378px; }
+
+  .phan3 {
+    height: 658px; }
+    .phan3 .row {
+      width: 375px !important;
+      height: 100%; }
+      .phan3 .row .title {
+        width: 355px;
+        height: 30px; }
+        .phan3 .row .title h1 {
+          padding-top: 7px !important; }
+      .phan3 .row .line {
+        margin-top: 40px;
+        width: 250px;
+        height: 20px; }
+      .phan3 .row .content {
+        width: 355px;
+        height: 250px; }
+      .phan3 .row .phan3-img {
+        width: 211.875px;
+        height: 273px; }
+
+  .phan4 {
+    height: 347px; }
+    .phan4 .row {
+      width: 375px; }
+      .phan4 .row .content {
+        width: 355px;
+        height: 307px; }
+        .phan4 .row .content .content-2 {
+          padding-top: 40px; }
+        .phan4 .row .content .khoangcach {
+          height: 20px; } }
+@media only screen and (max-width: 1000px) {
+  .phan5 {
+    height: 100%; }
+    .phan5 .row {
+      width: 474px; }
+      .phan5 .row .clear {
+        clear: both; }
+      .phan5 .row .group-2-img {
+        width: 468px;
+        height: 277px;
+        margin: 0 auto; }
+
+  .phan6 {
+    height: 100%; }
+    .phan6 .overlay {
+      margin-bottom: 50px; }
+      .phan6 .overlay .row {
+        width: 375px !important;
+        margin: 0 auto; }
+        .phan6 .overlay .row .float-phan6 {
+          clear: both !important; }
+        .phan6 .overlay .row .img-left {
+          width: 100% !important;
+          height: 100% !important;
+          margin-top: 10px; }
+          .phan6 .overlay .row .img-left .img-p6 {
+            width: 160.90625px !important;
+            height: 252px !important;
+            margin: 0 auto !important; }
+        .phan6 .overlay .row .content-right {
+          width: 100% !important;
+          margin: 20px auto !important; }
+          .phan6 .overlay .row .content-right .title {
+            width: 355px !important;
+            height: 108px !important;
+            margin: 0 auto; }
+            .phan6 .overlay .row .content-right .title h2 {
+              text-align: center !important; }
+          .phan6 .overlay .row .content-right .detail {
+            width: 320px !important;
+            height: 88px !important;
+            margin: 0 auto !important; }
+            .phan6 .overlay .row .content-right .detail p {
+              text-align: center 	!important; }
+          .phan6 .overlay .row .content-right .line {
+            width: 355px !important;
+            height: 25px;
+            margin: 0 auto; }
+          .phan6 .overlay .row .content-right .button-phan6 {
+            width: 216px;
+            height: 40px;
+            left: 120px;
+            top: 250px; }
+            .phan6 .overlay .row .content-right .button-phan6 a {
+              text-align: center; }
+
+  .phan8 {
+    height: 1350px; }
+    .phan8 .row {
+      height: 100%;
+      width: 375px !important; }
+      .phan8 .row .content {
+        display: block !important;
+        padding-top: 20px !important; }
+      .phan8 .row .content-margin {
+        margin: 0 auto !important; }
+
+  .phan9 {
+    height: 100%; }
+    .phan9 .row {
+      width: 490px; }
+      .phan9 .row .title {
+        width: 355px;
+        height: 100px !important; }
+        .phan9 .row .title h1 {
+          font-size: 30px !important;
+          padding-top: 10px !important; }
+      .phan9 .row .line {
+        width: 250px; }
+      .phan9 .row .clear {
+        clear: both; }
+      .phan9 .row .group-2-img {
+        width: 480px;
+        margin: 0 auto; }
+
+  .phan10 {
+    height: 582px; }
+    .phan10 .row {
+      width: 375px;
+      margin: 0 auto; }
+      .phan10 .row .content {
+        display: block;
+        margin: 0 auto;
+        margin-top: 30px; }
+      .phan10 .row .content-1 {
+        margin-top: 20px;
+        padding-top: 20px; } }
+@media only screen and (max-width: 680px) {
+  .phan7 .row {
+    width: 375px;
+    margin: 0 auto; }
+    .phan7 .row .title {
+      width: 355px;
+      height: 30px; }
+    .phan7 .row .line {
+      width: 264px;
+      height: 25px; }
+    .phan7 .row .detail {
+      width: 355px;
+      height: 44px; }
+    .phan7 .row .form-register {
+      width: 300px;
+      height: 100px; }
+      .phan7 .row .form-register .input-1 {
+        width: 300px !important;
+        height: 50px !important; }
+    .phan7 .row .button-phan7 {
+      width: 300px;
+      height: 48px; }
+      .phan7 .row .button-phan7 span {
+        width: 300px;
+        height: 48px; }
+    .phan7 .row .note {
+      width: 355px;
+      height: 60px; } }
+@media only screen and (max-width: 500px) {
+  .phan5 .row {
+    width: 375px; }
+    .phan5 .row .group-p5 {
+      clear: both; }
+    .phan5 .row .title, .phan5 .row .content, .phan5 .row .line {
+      width: 300px; }
+    .phan5 .row .group-2-img {
+      width: 234px;
+      height: 277px;
+      margin: 0 auto; }
+
+  .phan9 .row {
+    width: 375px; }
+    .phan9 .row .group-p5 {
+      clear: both; }
+    .phan9 .row .title, .phan9 .row .content {
+      width: 300px; }
+    .phan9 .row .group-2-img {
+      width: 234px;
+      height: 277px;
+      margin: 0 auto; } }
+
+/*# sourceMappingURL=home.css.map */
